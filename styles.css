@@ -1,0 +1,103 @@
+
+    nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #d41a1a;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    .logo img {
+    height: 100px;
+    width: auto;
+    }
+
+    .login a {
+    padding: 10px 20px;
+    background-color: #df291c;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    }
+
+    .search-form {
+    display: flex;
+    align-items: center;
+    }
+
+    .search-form input {
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    margin-right: 10px;
+    }
+
+    .search-form button {
+    padding: 10px;
+    background-color: #7e3838;
+    color: #b44444;
+    border: none;
+    border-radius: 10px;
+    }
+
+    button[type="submit"] img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    }
+
+
+    .navbar-black {
+    background-color: black;
+    height: 50px;
+    }
+
+    .nav-container {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    }
+
+    .navbar-black .logo {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px;
+    }
+
+    .navbar-black .separator {
+    width: 1px;
+    height: 20px;
+    background-color: white;
+    margin: 0 10px;
+    }
+
+    .navbar-black .nav-item {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    }
+
+    .navbar-black .nav-item1 {
+    color: rgb(236, 240, 22);
+    text-decoration: none;
+    padding: 10px;
+    }
+
+
+    .custom-navbarbarranegra {
+    height: 30px;
+    }
+
+    .nav-li{
+        color: aliceblue;
+    }
+
+
+    .card-img-top {
+        width: 150px;
+      }
+
